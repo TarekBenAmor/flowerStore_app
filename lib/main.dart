@@ -1,5 +1,5 @@
 
-import 'package:flower_store_app/pages/register.dart';
+import 'package:flower_store_app/pages/home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Register(),
+      home: Home(),
     );
   }
 }
