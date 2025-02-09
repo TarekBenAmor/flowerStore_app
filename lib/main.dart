@@ -1,5 +1,5 @@
 
-import 'package:flower_app/pages/register.dart';
+import 'package:flowerStore_app/pages/register.dart';
 import 'package:flutter/material.dart';
 
 void main() {
