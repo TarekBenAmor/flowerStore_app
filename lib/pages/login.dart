@@ -1,6 +1,6 @@
-import 'package:flowerStore_app/pages/register.dart';
-import 'package:flowerStore_app/shared/colors.dart';
-import 'package:flowerStore_app/shared/custom_textfield.dart';
+import 'package:flower_store_app/pages/register.dart';
+import 'package:flower_store_app/shared/colors.dart';
+import 'package:flower_store_app/shared/custom_textfield.dart';
 import 'package:flutter/material.dart';
 
 class Login extends StatelessWidget {

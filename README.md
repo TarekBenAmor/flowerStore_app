@@ -1,1 +1,1 @@
-# flowerStore_app
+# flower_store_app

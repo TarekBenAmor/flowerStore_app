@@ -164,13 +164,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "flower_app",
+      "name": "flower_store_app",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2025-02-08T12:34:05.930235Z",
+  "generated": "2025-02-09T00:22:04.537496Z",
   "generator": "pub",
   "generatorVersion": "3.6.2",
   "flutterRoot": "file:///C:/flutter/src/flutter",
